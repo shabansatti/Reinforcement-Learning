@@ -1,6 +1,6 @@
 # Reinforcement Learning (RL)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shabansatti&repo=Reinforcement-Learning&label=Visitors&color=0e75b6&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shabansatti.Reinforcement-Learning)
 ![Language](https://img.shields.io/badge/Course-Reinforcement%20learning-blue)
 
 ![Semester](https://img.shields.io/badge/Semester-Spring%202026-green)
